@@ -3,7 +3,6 @@ import './App.css';
 import { Valendina } from './Valendina/Valendina';
 
 function App() {
-  const pippo = 'ciao'
   return (
     <div className="App">
     <Valendina/>
