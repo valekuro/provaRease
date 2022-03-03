@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  const pippo = 'ha funzionatoooooooooooo';
+  const pippo = 'ha funzionatoooooo';
   const evviva = 'non so come ma pare che ha capito';
   return (
     <div className="App">
