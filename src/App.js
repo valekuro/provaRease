@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   const pippo = 'ha funzionatoooooo';
-  const evviva = 'non so come ma pare che ha capito';
+  const evviva = 'sto commit funziona';
   return (
     <div className="App">
       <header className="App-header">
