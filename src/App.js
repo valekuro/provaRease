@@ -18,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          PD pt2
+          PD
         </a>
       </header>
     </div>
