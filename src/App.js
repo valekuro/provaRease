@@ -18,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Masullo Gay
+          Dai che ce la fai 
         </a>
       </header>
     </div>
