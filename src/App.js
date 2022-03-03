@@ -18,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Dai che ce la fai 
+          PD
         </a>
       </header>
     </div>
