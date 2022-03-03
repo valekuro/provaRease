@@ -6,7 +6,7 @@ function App() {
   const boh = ()=>{
     console.log('ciao')
   }
-  const evviva = 'sto commit funziona';
+  const evviva = 'sto commit';
   return (
     <div className="App">
       <header className="App-header">
