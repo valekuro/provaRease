@@ -2,8 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  const pippo = 'ciao';
-  const oddioSanto = 'sto cazzo di rebase';
+  const pippo = 'ciao'
   return (
     <div className="App">
       <header className="App-header">
