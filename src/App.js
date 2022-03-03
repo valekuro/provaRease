@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   const pippo = 'ha funzionatoooooooooooo';
-  const oddioSanto = 'sto cazzo di rebase';
+  const evviva = 'non so come ma pare che ha capito';
   return (
     <div className="App">
       <header className="App-header">
