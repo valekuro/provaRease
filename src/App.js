@@ -3,14 +3,11 @@ import './App.css';
 
 function App() {
   const pippo = 'ha funzionatoooooo';
-  const boh = ()=>{
-    console.log('ciao')
-  }
   const evviva = 'sto commit funziona';
   return (
     <div className="App">
       <header className="App-header">
-      <p>{pippo}</p>
+      <p>ciao</p>
       </header>
     </div>
   );
