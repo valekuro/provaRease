@@ -4,7 +4,7 @@ import { Valendina } from './Valendina/Valendina';
 
 function App() {
   const pippo = 'ha funzionatoooooooooooo';
-  const evviva = 'non so come ma pare che ha capito';
+  const oddioSanto = 'sto cazzo di rebase';
   return (
     <div className="App">
     <Valendina/>
